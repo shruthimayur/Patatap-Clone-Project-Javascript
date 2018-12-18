@@ -1,5 +1,6 @@
-Neuronal Synchrony
+Patatap Clone Project Using Javascript
 ==================
+Patatap is a website that exhibits various visual and sound effects on pressing different keys. The colored visual effects and the sound presents JQuery as a powerful tool in integrating a great deal of effects to a website. This project extensively makes use of various JQuery libraries.
 
 A collection of two dimensional animations that are triggered by sound.
 
